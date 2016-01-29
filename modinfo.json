@@ -1,0 +1,20 @@
+{
+  "author": "wondible",
+  "build": "89755",
+  "category": ["galactic-war", "cheat"],
+  "context": "client",
+  "date": "2016/01/29",
+  "description": "Permanently unlocks all loadouts in Galactic War. You may remove the mod once unlocked.",
+  "display_name": "GW Unlock Loadouts",
+  "forum": null,
+  "identifier": "com.wondible.pa.gw_unlock_loadouts",
+  "priority": 100,
+  "scenes": {
+    "start": [
+      "coui://ui/mods/gw_unlock_loadouts/start.js"
+    ]
+  },
+  "signature": "not yet implemented",
+  "version": "0.1.0"
+}
+
