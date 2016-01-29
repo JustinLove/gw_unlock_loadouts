@@ -1,7 +1,7 @@
 {
   "author": "wondible",
   "build": "89755",
-  "category": ["galactic-war", "cheat"],
+  "category": ["galactic-war", "cheat", "titans"],
   "context": "client",
   "date": "2016/01/29",
   "description": "Permanently unlocks all loadouts in Galactic War. You may remove the mod once unlocked.",
@@ -15,6 +15,6 @@
     ]
   },
   "signature": "not yet implemented",
-  "version": "1.0.0"
+  "version": "1.0.1"
 }
 
