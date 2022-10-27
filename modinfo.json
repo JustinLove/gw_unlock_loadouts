@@ -12,10 +12,10 @@
   "priority": 100,
   "scenes": {
     "start": [
-      "coui://ui/mods/gw_unlock_loadouts/start.js"
+      "coui://ui/mods/gw_unlock_loadouts/start.js",
+      "coui://ui/mods/gw_unlock_loadouts/gwo.js"
     ]
   },
   "signature": "not yet implemented",
   "version": "1.0.2"
 }
-

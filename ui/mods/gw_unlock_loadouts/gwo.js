@@ -1,0 +1,2 @@
+localStorage["gwaio_bank"] =
+  '{"startCards":[{"id":"gwaio_start_ceo"},{"id":"gwaio_start_paratrooper"},{"id":"nem_start_deepspace"},{"id":"nem_start_nuke"},{"id":"nem_start_planetary"},{"id":"nem_start_tower_rush"},{"id":"gwaio_start_tourist"},{"id":"gwaio_start_rapid"},{"id":"tgw_start_speed"},{"id":"tgw_start_tank"},{"id":"gwaio_start_nomad"},{"id":"gwaio_start_backpacker"},{"id":"gwaio_start_hoarder"}]}';
