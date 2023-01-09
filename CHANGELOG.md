@@ -1,5 +1,9 @@
 # Unlock Loadouts for galactic war
 
+## 1.1.0
+
+- added GW overhaul loadouts and new vanilla loadout - thanks Ferret-Master
+
 ## 1.0.2
 
 - Update title and tags
