@@ -1,9 +1,9 @@
 {
   "author": "wondible, Ferret-Master",
-  "build": "116400",
+  "build": "120799",
   "category": ["gw", "cheat", "titans"],
   "context": "client",
-  "date": "2023/01/08",
+  "date": "2025/01/03",
   "description": "Permanently unlocks all loadouts in Galactic War and Galactic War Overhaul. You may remove the mod once unlocked.",
   "display_name": "Unlock Loadouts for galactic war",
   "forum": "https://forums.uberent.com/threads/rel-gw-unlock-loadouts.71320/",
@@ -16,6 +16,6 @@
     ]
   },
   "signature": "not yet implemented",
-  "version": "1.1.0"
+  "version": "1.1.1"
 }
 
